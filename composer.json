@@ -2,7 +2,7 @@
     "name": "letsinnovate-io/twilio-sms-demo",
     "description": "A quick PHP app to demo sending text messages via twilio",
     "require": {
-        "vlucas/phpdotenv": "^5.4",
+        "vlucas/phpdotenv": "^4.1",
         "sendgrid/sendgrid": "^8.0",
         "twilio/sdk": "^6.37",
         "twig/twig": "^3.4"
